@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://fortmahonplage-casino.com/
+Sitemap: https://fortmahonplage-casino.com/sitemap.xml

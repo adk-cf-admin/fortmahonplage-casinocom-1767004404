@@ -1,0 +1,19 @@
+{
+  "name": "Casino de Fort‑Mahon‑Plage",
+  "short_name": "Casino de Fort‑Mahon‑Plage",
+  "theme_color": "",
+  "background_color": "#28394B",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1766999606-6368-8444-favicon.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
